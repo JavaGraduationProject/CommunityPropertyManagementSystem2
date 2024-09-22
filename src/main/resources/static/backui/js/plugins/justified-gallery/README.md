@@ -1,6 +1,6 @@
 # 全目录
 
-[更多系统、论文，供君选择 ~~>](https://www.bitwise.net.cn)
+[更多系统、论文，供君选择 ~~>](https://www.yuque.com/wisebit/blog)
 <div align="center">
   <a href="http://miromannino.com/projects/justified-gallery/" target="_blank">
     <img alt="image" src="https://raw.github.com/miromannino/Justified-Gallery/gh-imgs/jgcover.png" />
